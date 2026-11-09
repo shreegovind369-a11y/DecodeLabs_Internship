@@ -42,9 +42,6 @@ The main objective is to improve data quality and data integrity through data cl
 - Text standardization using Excel functions.
 - Data quality checking and documentation.
 
-## Project Status
-In Progress
-
 ## Internship
 Decodelabs – Data Analytics Internship
 
