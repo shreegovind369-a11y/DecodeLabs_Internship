@@ -1,7 +1,7 @@
 # Decodelabs – Data Cleaning and Preparation
 
 ## Project Overview
-This project is part of my Data Analytics Internship at Decodelabs (The Code Lab).
+This project is part of my Data Analytics Internship at Decodelabs.
 
 Project 1 focuses on transforming raw and inconsistent data into clean, structured, and reliable data using Microsoft Excel.
 
