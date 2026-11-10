@@ -80,5 +80,5 @@ Created Excel charts and Pivot Table summaries to present findings and compare d
 This project provided practical experience in Exploratory Data Analysis using Microsoft Excel. It helped transform raw sales data into meaningful information and develop a better understanding of data-driven business analysis.
 
 ---
-**Project Category:** Data Analytics | Exploratory Data Analysis  
+**Project Category:** Data Analytics | Decode labs Exploratory Data Analysis  
 **Tool Used:** Microsoft Excel
