@@ -27,8 +27,7 @@ The dataset contains 1,200 records and 14 columns related to e-commerce orders.
 - TotalPrice
 
 ### Tools & Technologies
-- SQL
-- MySQL (if used)
+- MySQL
 - E-commerce Dataset
 
 ### Project Tasks
